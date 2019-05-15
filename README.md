@@ -10,6 +10,8 @@
   
 ### Process:
   - Using beautiful soup to extract content from web page
-  - Using NLTK's named entity recognition to extract events and dates
+  - Using date reader to detect events
+  - Use heuristics to get the dates better
   - Using Google Calendar API to create calendar events
   
+
